@@ -65,3 +65,6 @@ li::first-letter {
 .weather-temperature .active:hover {
   text-decoration: none;
 }
+#open-source {
+  text-decoration: none;
+}
